@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Demo-Objectify-endpointsTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Demo-Objectify-endpointsTest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="com.google.code.gson:gson:2.8.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Demo-Objectify-endpointsTest/web/Web2" />
+      <element id="javaee-facet-resources" facet="Demo-Objectify-endpointsTest/web/Web" />
+    </root>
+  </artifact>
+</component>

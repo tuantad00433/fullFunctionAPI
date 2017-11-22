@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/commons-lang3-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-http-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-http-client-jdo-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/appengine-api-1.0-sdk-1.9.56.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/org.apache.taglibs.taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/joda-time-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/objectify-5.1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/org.apache.taglibs.taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/swagger-annotations-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/appengine-api-1.0-sdk-1.9.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jackson-datatype-joda-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-http-client-jackson2-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-oauth-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/slf4j-nop-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/swagger-models-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/slf4j-api-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jackson-annotations-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-api-client-servlet-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jackson-dataformat-yaml-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jackson-core-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-api-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-oauth-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jackson-databind-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/endpoints-framework-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/swagger-core-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-http-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/jsr305-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-oauth-client-servlet-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/transaction-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/google-api-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Demo_Objectify_endpointsTest_war_exploded/WEB-INF/lib/snakeyaml-1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
